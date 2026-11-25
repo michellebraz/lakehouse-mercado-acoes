@@ -1,0 +1,38 @@
+{
+  "name": "DS_ADLS_Parquet",
+  "properties": {
+    "description": "Arquivo Parquet no container landing do ADLS Gen2. Pasta e nome do arquivo são parâmetros.",
+    "linkedServiceName": {
+      "referenceName": "LS_ADLS_Mercado",
+      "type": "LinkedServiceReference"
+    },
+    "parameters": {
+      "pasta": {
+        "type": "string"
+      },
+      "arquivo": {
+        "type": "string"
+      }
+    },
+    "annotations": [
+      "lakehouse-mercado-acoes"
+    ],
+    "type": "Parquet",
+    "typeProperties": {
+      "location": {
+        "type": "AzureBlobFSLocation",
+        "fileName": {
+          "value": "@dataset().arquivo",
+          "type": "Expression"
+        },
+        "folderPath": {
+          "value": "@dataset().pasta",
+          "type": "Expression"
+        },
+        "fileSystem": "landing"
+      },
+      "compressionCodec": "snappy"
+    },
+    "schema": []
+  }
+}

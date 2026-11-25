@@ -1,0 +1,201 @@
+cliente_id,nome,cidade,uf,perfil_investidor,data_cadastro,updated_at
+1,Henrique Dias,São Paulo,SP,Conservador,2023-01-31,2026-11-20 09:41:00
+2,Sérgio Barbosa,Campinas,SP,Arrojado,2021-02-23,2026-11-20 09:42:00
+3,Ana Barbosa,Florianópolis,SC,Moderado,2020-05-10,2026-11-20 09:43:00
+4,Vinícius Almeida,Rio de Janeiro,RJ,Conservador,2025-08-31,2026-11-20 09:44:00
+5,Nicolas Dias,Salvador,BA,Conservador,2026-02-10,2026-11-20 09:45:00
+6,Ana Rocha,Recife,PE,Arrojado,2023-02-13,2026-11-20 09:46:00
+7,Karina Esteves,Campinas,SP,Arrojado,2024-09-27,2026-11-20 09:47:00
+8,Diego Barbosa,Campinas,SP,Conservador,2023-10-10,2026-11-20 09:48:00
+9,Lucas Nogueira,Porto Alegre,RS,Conservador,2024-01-10,2026-11-20 09:49:00
+10,Sérgio Barbosa,Belo Horizonte,MG,Conservador,2025-02-24,2026-11-20 09:50:00
+11,João Santos,Porto Alegre,RS,Conservador,2026-03-11,2026-11-20 09:51:00
+12,Gabriela Pereira,Florianópolis,SC,Moderado,2026-06-22,2026-11-20 09:52:00
+13,João Barbosa,São Paulo,SP,Conservador,2022-07-22,2026-11-20 09:53:00
+14,Isabela Lima,Rio de Janeiro,RJ,Conservador,2024-04-05,2026-11-20 09:54:00
+15,Lucas Dias,Curitiba,PR,Conservador,2024-02-25,2026-11-20 09:55:00
+16,Vinícius Oliveira,Belo Horizonte,MG,Arrojado,2020-10-19,2026-11-20 09:56:00
+17,Fábio Lima,Campinas,SP,Arrojado,2022-09-29,2026-11-20 09:57:00
+18,Henrique Oliveira,Porto Alegre,RS,Moderado,2026-03-31,2026-11-20 09:58:00
+19,Bruno Rocha,Curitiba,PR,Conservador,2022-07-27,2026-11-20 09:59:00
+20,Carla Dias,Curitiba,PR,Moderado,2023-01-01,2026-11-20 10:00:00
+21,Gabriela Oliveira,Florianópolis,SC,Arrojado,2023-07-12,2026-11-20 10:01:00
+22,Elisa Esteves,Recife,PE,Moderado,2025-02-22,2026-11-20 10:02:00
+23,Sérgio Esteves,Campinas,SP,Conservador,2026-04-18,2026-11-20 10:03:00
+24,Mariana Ferreira,Florianópolis,SC,Moderado,2026-07-18,2026-11-20 10:04:00
+25,Paulo Barbosa,Rio de Janeiro,RJ,Conservador,2025-09-18,2026-11-20 10:05:00
+26,Fábio Rocha,Santos,SP,Conservador,2021-09-18,2026-11-20 10:06:00
+27,Mariana Gomes,Porto Alegre,RS,Arrojado,2020-09-17,2026-11-20 10:07:00
+28,Isabela Martins,Florianópolis,SC,Moderado,2025-12-07,2026-11-20 10:08:00
+29,Sérgio Rocha,Santos,SP,Arrojado,2021-04-14,2026-11-20 10:09:00
+30,Diego Esteves,Belo Horizonte,MG,Arrojado,2023-10-25,2026-11-20 10:10:00
+31,Ana Pereira,Porto Alegre,RS,Conservador,2025-02-01,2026-11-20 10:11:00
+32,Renata Teixeira,Belo Horizonte,MG,Arrojado,2022-01-01,2026-11-20 10:12:00
+33,Renata Nogueira,São Paulo,SP,Arrojado,2023-05-07,2026-11-20 10:13:00
+34,Fábio Martins,Rio de Janeiro,RJ,Conservador,2024-03-11,2026-11-20 10:14:00
+35,Paulo Almeida,Salvador,BA,Conservador,2023-08-20,2026-11-20 10:15:00
+36,Henrique Almeida,São Paulo,SP,Moderado,2023-06-13,2026-11-20 10:16:00
+37,Carla Pereira,Rio de Janeiro,RJ,,2020-11-18,2026-11-20 10:17:00
+38,Elisa Cardoso,Recife,PE,Conservador,2025-12-21,2026-11-20 10:18:00
+39,Isabela Martins,Recife,PE,Arrojado,2021-11-07,2026-11-20 10:19:00
+40,Sérgio Rocha,Florianópolis,SC,Moderado,2022-05-17,2026-11-20 10:20:00
+41,Mariana Oliveira,Rio de Janeiro,RJ,Arrojado,2023-06-30,2026-11-20 10:21:00
+42,Olívia Barbosa,Curitiba,PR,Moderado,2025-10-20,2026-11-20 10:22:00
+43,Karina Almeida,Rio de Janeiro,RJ,Conservador,2020-09-19,2026-11-20 10:23:00
+44,Tatiana Dias,Florianópolis,SC,Arrojado,2022-07-31,2026-11-20 10:24:00
+45,Henrique Barbosa,Santos,SP,Conservador,2020-08-29,2026-11-20 10:25:00
+46,Renata Dias,Santos,SP,Moderado,2020-10-17,2026-11-20 10:26:00
+47,Gabriela Martins,Belo Horizonte,MG,Arrojado,2025-06-11,2026-11-20 10:27:00
+48,Tatiana Lima,Campinas,SP,Arrojado,2026-05-27,2026-11-20 10:28:00
+49,Gabriela Barbosa,Rio de Janeiro,RJ,Moderado,2024-07-25,2026-11-20 10:29:00
+50,Lucas Gomes,São Paulo,SP,Arrojado,2024-10-31,2026-11-20 10:30:00
+51,Diego Almeida,Porto Alegre,RS,Moderado,2020-08-09,2026-11-20 10:31:00
+52,Diego Dias,Porto Alegre,RS,Arrojado,2023-10-21,2026-11-20 10:32:00
+53,Olívia Cardoso,Rio de Janeiro,RJ,Conservador,2026-01-05,2026-11-20 10:33:00
+54,Olívia Dias,Porto Alegre,RS,Conservador,2023-02-14,2026-11-20 10:34:00
+55,Diego Almeida,São Paulo,SP,Moderado,2026-03-04,2026-11-20 10:35:00
+56,Henrique Cardoso,Salvador,BA,Conservador,2021-01-17,2026-11-20 10:36:00
+57,Gabriela Santos,Porto Alegre,RS,Moderado,2025-05-25,2026-11-20 10:37:00
+58,Mariana Almeida,Porto Alegre,RS,Conservador,2021-11-05,2026-11-20 10:38:00
+59,João Gomes,Porto Alegre,RS,Moderado,2025-02-06,2026-11-20 10:39:00
+60,Elisa Dias,Salvador,BA,Arrojado,2025-06-16,2026-11-20 10:40:00
+61,Tatiana Pereira,Belo Horizonte,MG,Conservador,2020-08-27,2026-11-20 10:41:00
+62,Bruno Almeida,Salvador,BA,Conservador,2023-07-08,2026-11-20 10:42:00
+63,Renata Cardoso,Florianópolis,SC,Moderado,2025-08-21,2026-11-20 10:43:00
+64,Fábio Barbosa,Santos,SP,Arrojado,2020-11-24,2026-11-20 10:44:00
+65,Mariana Barbosa,Florianópolis,SC,Conservador,2022-08-21,2026-11-20 10:45:00
+66,Vinícius Almeida,Florianópolis,SC,Conservador,2026-06-29,2026-11-20 10:46:00
+67,Tatiana Nogueira,Florianópolis,SC,Conservador,2024-09-13,2026-11-20 10:47:00
+68,Gabriela Oliveira,Salvador,BA,Moderado,2022-12-04,2026-11-20 10:48:00
+69,Mariana Cardoso,Curitiba,PR,Conservador,2022-12-23,2026-11-20 10:49:00
+70,Carla Almeida,Belo Horizonte,MG,Moderado,2023-07-19,2026-11-20 10:50:00
+71,Diego Barbosa,Recife,PE,Arrojado,2026-04-25,2026-11-20 10:51:00
+72,Isabela Cardoso,Salvador,BA,Conservador,2025-09-03,2026-11-20 10:52:00
+73,Lucas Esteves,Curitiba,PR,Conservador,2022-09-27,2026-11-20 10:53:00
+74,João Nogueira,Campinas,SP,Moderado,2026-02-03,2026-11-20 10:54:00
+75,João Teixeira,Salvador,BA,Conservador,2026-03-21,2026-11-20 10:55:00
+76,Diego Teixeira,São Paulo,SP,Conservador,2022-12-19,2026-11-20 10:56:00
+77,Elisa Esteves,São Paulo,SP,Arrojado,2026-03-16,2026-11-20 10:57:00
+78,Karina Dias,Belo Horizonte,MG,Arrojado,2022-05-12,2026-11-20 10:58:00
+79,Isabela Teixeira,Belo Horizonte,MG,Arrojado,2025-06-24,2026-11-20 10:59:00
+80,Isabela Almeida,Santos,SP,Conservador,2024-09-30,2026-11-20 11:00:00
+81,Isabela Cardoso,Santos,SP,Moderado,2021-06-19,2026-11-20 11:01:00
+82,Sérgio Almeida,Recife,PE,Arrojado,2024-10-17,2026-11-20 11:02:00
+83,Sérgio Almeida,São Paulo,SP,Conservador,2021-09-02,2026-11-20 11:03:00
+84,Elisa Gomes,Curitiba,PR,Arrojado,2026-03-13,2026-11-20 11:04:00
+85,Lucas Teixeira,Campinas,SP,Conservador,2023-06-16,2026-11-20 11:05:00
+86,Henrique Oliveira,Santos,SP,Moderado,2022-05-10,2026-11-20 11:06:00
+87,Nicolas Nogueira,São Paulo,SP,Moderado,2026-04-12,2026-11-20 11:07:00
+88,Fábio Teixeira,Campinas,SP,Conservador,2021-10-27,2026-11-20 11:08:00
+89,Karina Rocha,Porto Alegre,RS,Conservador,2022-01-04,2026-11-20 11:09:00
+90,Isabela Cardoso,Porto Alegre,RS,Arrojado,2022-10-13,2026-11-20 11:10:00
+91,Paulo Dias,São Paulo,SP,Moderado,2020-06-07,2026-11-20 11:11:00
+92,João Santos,Rio de Janeiro,RJ,Moderado,2023-12-03,2026-11-20 11:12:00
+93,Gabriela Gomes,Rio de Janeiro,RJ,Conservador,2020-04-06,2026-11-20 11:13:00
+94,Isabela Ferreira,Curitiba,PR,Moderado,2020-10-11,2026-11-20 11:14:00
+95,Karina Almeida,Salvador,BA,Moderado,2026-01-05,2026-11-20 11:15:00
+96,Tatiana Esteves,São Paulo,SP,Moderado,2022-01-01,2026-11-20 11:16:00
+97,Lucas Pereira,Santos,SP,Conservador,2024-11-14,2026-11-20 11:17:00
+98,Diego Gomes,Curitiba,PR,Moderado,2025-09-25,2026-11-20 11:18:00
+99,Bruno Pereira,Florianópolis,SC,Conservador,2022-11-09,2026-11-20 11:19:00
+100,Sérgio Oliveira,Porto Alegre,RS,Conservador,2025-10-30,2026-11-20 11:20:00
+101,Carla Oliveira,Rio de Janeiro,RJ,Moderado,2024-11-01,2026-11-20 11:21:00
+102,Diego Pereira,Curitiba,PR,Arrojado,2023-07-09,2026-11-20 11:22:00
+103,Nicolas Ferreira,Belo Horizonte,MG,Arrojado,2023-06-20,2026-11-20 11:23:00
+104,Sérgio Cardoso,Porto Alegre,RS,Arrojado,2023-04-26,2026-11-20 11:24:00
+105,Fábio Nogueira,Rio de Janeiro,RJ,Moderado,2024-04-01,2026-11-20 11:25:00
+106,Sérgio Santos,Florianópolis,SC,Moderado,2024-07-21,2026-11-20 11:26:00
+107,Gabriela Gomes,Santos,SP,Moderado,2023-03-21,2026-11-20 11:27:00
+108,Olívia Lima,Florianópolis,SC,Arrojado,2023-08-12,2026-11-20 11:28:00
+109,Renata Lima,Recife,PE,Arrojado,2022-05-25,2026-11-20 11:29:00
+110,João Martins,Campinas,SP,Arrojado,2020-12-13,2026-11-20 11:30:00
+111,Henrique Oliveira,Florianópolis,SC,Moderado,2021-01-17,2026-11-20 11:31:00
+112,Elisa Almeida,Belo Horizonte,MG,Conservador,2022-03-26,2026-11-20 11:32:00
+113,Vinícius Santos,Santos,SP,Conservador,2025-04-30,2026-11-20 11:33:00
+114,Tatiana Dias,São Paulo,SP,Moderado,2024-08-24,2026-11-20 11:34:00
+115,Henrique Cardoso,Porto Alegre,RS,Moderado,2024-06-24,2026-11-20 11:35:00
+116,Henrique Cardoso,Santos,SP,Conservador,2024-10-07,2026-11-20 11:36:00
+117,Sérgio Dias,Salvador,BA,Moderado,2020-07-24,2026-11-20 11:37:00
+118,Olívia Oliveira,São Paulo,SP,Moderado,2021-06-30,2026-11-20 11:38:00
+119,Olívia Nogueira,Salvador,BA,Arrojado,2023-07-23,2026-11-20 11:39:00
+120,Olívia Teixeira,Salvador,BA,Moderado,2026-02-22,2026-11-20 11:40:00
+121,Olívia Esteves,Campinas,SP,Arrojado,2025-04-28,2026-11-20 11:41:00
+122,Renata Lima,Rio de Janeiro,RJ,Arrojado,2023-02-09,2026-11-20 11:42:00
+123,Carla Pereira,Rio de Janeiro,RJ,Moderado,2024-12-06,2026-11-20 11:43:00
+124,Karina Ferreira,Belo Horizonte,MG,Conservador,2023-01-17,2026-11-20 11:44:00
+125,Elisa Dias,Salvador,BA,Conservador,2021-07-20,2026-11-20 11:45:00
+126,Gabriela Barbosa,Porto Alegre,RS,Arrojado,2021-09-17,2026-11-20 11:46:00
+127,Sérgio Lima,Porto Alegre,RS,Moderado,2023-09-17,2026-11-20 11:47:00
+128,Nicolas Gomes,Porto Alegre,RS,Conservador,2022-04-27,2026-11-20 11:48:00
+129,Tatiana Gomes,Florianópolis,SC,Arrojado,2020-03-21,2026-11-20 11:49:00
+130,João Rocha,Recife,PE,Conservador,2023-12-11,2026-11-20 11:50:00
+131,Sérgio Rocha,Porto Alegre,RS,Moderado,2026-01-13,2026-11-20 11:51:00
+132,Henrique Esteves,Florianópolis,SC,Conservador,2025-06-22,2026-11-20 11:52:00
+133,Mariana Ferreira,Porto Alegre,RS,Moderado,2020-04-28,2026-11-20 11:53:00
+134,Olívia Teixeira,Porto Alegre,RS,Arrojado,2021-11-07,2026-11-20 11:54:00
+135,Ana Teixeira,Campinas,SP,Arrojado,2025-12-27,2026-11-20 11:55:00
+136,Ana Barbosa,Porto Alegre,RS,Arrojado,2026-04-30,2026-11-20 11:56:00
+137,Fábio Almeida,Porto Alegre,RS,Conservador,2025-03-06,2026-11-20 11:57:00
+138,Gabriela Lima,Belo Horizonte,MG,Moderado,2023-09-02,2026-11-20 11:58:00
+139,Isabela Rocha,Curitiba,PR,Moderado,2024-04-01,2026-11-20 11:59:00
+140,Paulo Almeida,Porto Alegre,RS,Moderado,2020-12-01,2026-11-20 12:00:00
+141,Henrique Oliveira,Salvador,BA,Conservador,2023-12-04,2026-11-20 12:01:00
+142,Ana Dias,São Paulo,SP,Arrojado,2020-06-13,2026-11-20 12:02:00
+143,Henrique Cardoso,Rio de Janeiro,RJ,Conservador,2021-09-16,2026-11-20 12:03:00
+144,Tatiana Dias,Recife,PE,Arrojado,2021-04-13,2026-11-20 12:04:00
+145,Lucas Cardoso,Recife,PE,Arrojado,2022-11-15,2026-11-20 12:05:00
+146,Fábio Esteves,Florianópolis,SC,Arrojado,2021-04-14,2026-11-20 12:06:00
+147,João Nogueira,São Paulo,SP,Arrojado,2020-04-15,2026-11-20 12:07:00
+148,Carla Nogueira,Porto Alegre,RS,Moderado,2022-03-23,2026-11-20 12:08:00
+149,Vinícius Rocha,Rio de Janeiro,RJ,Conservador,2023-05-20,2026-11-20 12:09:00
+150,Lucas Martins,São Paulo,SP,Arrojado,2020-06-17,2026-11-20 12:10:00
+151,Carla Martins,Porto Alegre,RS,Arrojado,2024-02-26,2026-11-20 12:11:00
+152,Paulo Barbosa,Curitiba,PR,Conservador,2024-09-16,2026-11-20 12:12:00
+153,Elisa Gomes,Porto Alegre,RS,Moderado,2025-02-26,2026-11-20 12:13:00
+154,Isabela Nogueira,Campinas,SP,,2025-11-07,2026-11-20 12:14:00
+155,Nicolas Santos,Salvador,BA,Moderado,2025-03-19,2026-11-20 12:15:00
+156,Henrique Santos,Florianópolis,SC,Moderado,2023-08-13,2026-11-20 12:16:00
+157,Henrique Rocha,São Paulo,SP,Moderado,2025-01-20,2026-11-20 12:17:00
+158,Karina Almeida,Recife,PE,Arrojado,2024-04-01,2026-11-20 12:18:00
+159,Paulo Dias,Recife,PE,Moderado,2022-01-14,2026-11-20 12:19:00
+160,Isabela Teixeira,Curitiba,PR,Moderado,2023-10-26,2026-11-20 12:20:00
+161,Sérgio Almeida,Florianópolis,SC,Arrojado,2023-02-05,2026-11-20 12:21:00
+162,Henrique Pereira,Salvador,BA,Conservador,2020-12-16,2026-11-20 12:22:00
+163,Henrique Pereira,Porto Alegre,RS,Moderado,2026-03-24,2026-11-20 12:23:00
+164,Olívia Rocha,Recife,PE,Arrojado,2025-07-03,2026-11-20 12:24:00
+165,Henrique Gomes,Santos,SP,Conservador,2023-04-20,2026-11-20 12:25:00
+166,Lucas Lima,Rio de Janeiro,RJ,Moderado,2026-07-10,2026-11-20 12:26:00
+167,Nicolas Pereira,Salvador,BA,Arrojado,2023-11-09,2026-11-20 12:27:00
+168,Olívia Esteves,Salvador,BA,Moderado,2023-12-12,2026-11-20 12:28:00
+169,Diego Pereira,Belo Horizonte,MG,Moderado,2022-08-02,2026-11-20 12:29:00
+170,Sérgio Rocha,Rio de Janeiro,RJ,Moderado,2021-05-04,2026-11-20 12:30:00
+171,Paulo Esteves,Campinas,SP,Conservador,2022-06-05,2026-11-20 12:31:00
+172,Diego Santos,Florianópolis,SC,Arrojado,2023-03-05,2026-11-20 12:32:00
+173,Lucas Cardoso,Rio de Janeiro,RJ,Moderado,2022-07-20,2026-11-20 12:33:00
+174,Elisa Esteves,Belo Horizonte,MG,Conservador,2025-12-27,2026-11-20 12:34:00
+175,João Pereira,Santos,SP,Conservador,2026-03-16,2026-11-20 12:35:00
+176,Diego Santos,Campinas,SP,Arrojado,2025-07-03,2026-11-20 12:36:00
+177,Paulo Lima,Santos,SP,Arrojado,2023-03-10,2026-11-20 12:37:00
+178,Bruno Esteves,Recife,PE,Moderado,2022-01-25,2026-11-20 12:38:00
+179,Mariana Lima,Recife,PE,Conservador,2020-09-24,2026-11-20 12:39:00
+180,Elisa Cardoso,São Paulo,SP,Arrojado,2020-08-07,2026-11-20 12:40:00
+181,Henrique Barbosa,Florianópolis,SC,Moderado,2020-12-14,2026-11-20 12:41:00
+182,Renata Gomes,Salvador,BA,Moderado,2022-07-13,2026-11-20 12:42:00
+183,Tatiana Gomes,Recife,PE,Moderado,2023-05-02,2026-11-20 12:43:00
+184,Vinícius Pereira,Belo Horizonte,MG,Arrojado,2020-09-03,2026-11-20 12:44:00
+185,Isabela Oliveira,São Paulo,SP,Conservador,2022-05-14,2026-11-20 12:45:00
+186,Fábio Martins,São Paulo,SP,Conservador,2022-09-09,2026-11-20 12:46:00
+187,Nicolas Lima,São Paulo,SP,Conservador,2020-01-11,2026-11-20 12:47:00
+188,Bruno Dias,Florianópolis,SC,Moderado,2023-04-07,2026-11-20 12:48:00
+189,Olívia Barbosa,Belo Horizonte,MG,Arrojado,2023-03-04,2026-11-20 12:49:00
+190,Nicolas Barbosa,Rio de Janeiro,RJ,Moderado,2022-03-21,2026-11-20 12:50:00
+191,Isabela Santos,Salvador,BA,Conservador,2021-09-02,2026-11-20 12:51:00
+192,Fábio Rocha,Campinas,SP,Conservador,2020-09-01,2026-11-20 12:52:00
+193,João Lima,Belo Horizonte,MG,Arrojado,2026-05-20,2026-11-20 12:53:00
+194,Mariana Esteves,São Paulo,SP,Moderado,2023-05-30,2026-11-20 12:54:00
+195,Olívia Barbosa,Salvador,BA,Arrojado,2025-07-15,2026-11-20 12:55:00
+196,Karina Nogueira,Florianópolis,SC,Conservador,2024-11-04,2026-11-20 12:56:00
+197,Henrique Oliveira,Belo Horizonte,MG,Conservador,2021-01-09,2026-11-20 12:57:00
+198,Isabela Nogueira,Florianópolis,SC,Arrojado,2020-03-25,2026-11-20 12:58:00
+199,Renata Oliveira,Santos,SP,Conservador,2025-04-11,2026-11-20 12:59:00
+200,Tatiana Gomes,Recife,PE,Moderado,2022-01-13,2026-11-20 13:00:00

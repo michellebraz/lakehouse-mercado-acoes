@@ -1,0 +1,43 @@
+{
+  "name": "TR_Dias_Uteis_19h",
+  "properties": {
+    "description": "Roda de segunda a sexta às 19h (horário de Brasília), após o fechamento do mercado.",
+    "annotations": [
+      "lakehouse-mercado-acoes"
+    ],
+    "runtimeState": "Stopped",
+    "pipelines": [
+      {
+        "pipelineReference": {
+          "referenceName": "PL_Origem_Incremental",
+          "type": "PipelineReference"
+        },
+        "parameters": {}
+      }
+    ],
+    "type": "ScheduleTrigger",
+    "typeProperties": {
+      "recurrence": {
+        "frequency": "Week",
+        "interval": 1,
+        "startTime": "2026-11-25T19:00:00",
+        "timeZone": "E. South America Standard Time",
+        "schedule": {
+          "minutes": [
+            0
+          ],
+          "hours": [
+            19
+          ],
+          "weekDays": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ]
+        }
+      }
+    }
+  }
+}
